@@ -1,1 +1,1 @@
-# Yapay-Sinir-AĞları
+# Yapay-Sinir-Ağları
